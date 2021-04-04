@@ -7,7 +7,7 @@ public class Test {
 
 		System.out.println("Change from eclipse");
 
-		
+		System.out.println("hello world");
 
 	}
 }
